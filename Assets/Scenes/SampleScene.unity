@@ -1050,7 +1050,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9825baf2c0fd1248b2e2607e4ee9812, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  moveSpeed: 0.5
   segmentPrefeb: {fileID: 6671122329382496760, guid: 142551befbb996c44bb31b3d5e367857, type: 3}
+  segmentSecondPrefeb: {fileID: 6671122329382496760, guid: 0c3765e5d489f4e479b4727fe5ca6463, type: 3}
+  initialSize: 1
 --- !u!1 &1601936081
 GameObject:
   m_ObjectHideFlags: 0
